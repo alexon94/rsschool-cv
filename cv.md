@@ -38,7 +38,7 @@ fn(1, 5)
 
 ### Experience
 
-https://alexon94.github.io/rsschool-cv/cv
+[https://alexon94.github.io/rsschool-cv/cv](https://alexon94.github.io/rsschool-cv/cv)
 
 ### Education, Courses
 
