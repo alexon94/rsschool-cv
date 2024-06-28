@@ -10,9 +10,9 @@
 
 ### About me
 
-Hello! My name is Alexey. I am an aspiring frontend developer, devoting all my time to learning to expand my skills and achieve success in this field.
+Hello! My name is Alexey. I'm a beginner front-end developer, devoting all my time to learning, expanding my skills and achieving success in this field.
 
-My goal is to develop in the field of frontend development and apply my knowledge in real projects. Looking for internship or entry-level positions to start my career in web development.
+My goal is to develop in the field of front-end development and apply my knowledge in real projects. Looking for an internship or entry level position to start my career in web development.
 
 ### Skills
 
