@@ -10,9 +10,9 @@
 
 ### About me
 
-Привет! Меня зовут Алексей. Я начинающий frontend-разработчик, все свое время посвящаю обучению чтобы расширить свои навыки и достичь успеха в этой области.
+Hello! My name is Aleksey. I am an aspiring frontend developer, devoting all my time to learning to expand my skills and achieve success in this field.
 
-Моя цель - развиваться в области frontend-разработки и применить свои знания в реальных проектах. Ищу возможности для стажировок или начальных позиций, чтобы начать свою карьеру в веб-разработке.
+My goal is to develop in the field of frontend development and apply my knowledge in real projects. Looking for internship or entry-level positions to start my career in web development.
 
 ### Skills
 
