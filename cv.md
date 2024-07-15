@@ -10,9 +10,9 @@
 
 ### About me
 
-Hello! My name is Alexey. I'm a beginner front-end developer, devoting all my time to learning, expanding my skills and achieving success in this field.
+## purposefulness, responsibility, independence
 
-My goal is to develop in the field of front-end development and apply my knowledge in real projects. Looking for an internship or entry level position to start my career in web development.
+Hello, my name is Alexey, I am 30 years old. I am studying front-end development, I have no other interests or hobbies. My goal is to gain new knowledge and experience for future employment.
 
 ### Skills
 
